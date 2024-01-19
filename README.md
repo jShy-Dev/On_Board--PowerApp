@@ -1,5 +1,5 @@
 # On_Board--PowerApp
-Application built in PowerApps for an O365 tenant that leverages Planner, Outlook and Azure DevOps connectors and a Sharepoint table group as backend data source, editable through PA Form Controls.
+Onboarding & Training Application built in PowerApps for an O365 tenant that leverages Planner, Outlook and Azure DevOps connectors leveraging a SharePoint table group as backend data source, CRUD functions managed through PA Form Controls. Modular content system allowing for team admins to manage their training content.
 
 I developed this PowerApp to solve the business need of team or effort-specific onboarding.
 While we have an enhanced onboarding platform from the HR side, this caregiver-facing tool focuses on the following:
